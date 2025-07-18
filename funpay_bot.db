@@ -1,3 +1,0 @@
-git add fanpay_bot.db
-git commit -m "Add database"
-git push origin main
